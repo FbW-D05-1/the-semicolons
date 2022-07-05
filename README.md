@@ -1,12 +1,15 @@
-# the-semicolons
+# the-semicolonsD
 
 ( ˶˘ ³˘(⋆❛ ہ ❛⋆)!♡
 
+- Etienne
+- Lea
 - Niko Springer
 - marcel
 - tom
 - Micha
 - Youssef
+- Ahmad
 - Hosam
 - Kathrine Beuth
 - Alibaba
