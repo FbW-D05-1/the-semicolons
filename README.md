@@ -6,3 +6,5 @@
 - Youssef
 - Hosam
 - Kathrine Beuth
+- Alibaba
+- George
