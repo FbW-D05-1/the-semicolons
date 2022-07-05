@@ -1,5 +1,6 @@
 # the-semicolons
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 Marcel Voigt
@@ -12,3 +13,13 @@ Youssef
 Hosam
 George
 Edgar
+- Niko Springer
+- marcel
+- tom
+- Micha
+- Youssef
+- Hosam
+- Kathrine Beuth
+- Alibaba
+- George
+- Edgar
