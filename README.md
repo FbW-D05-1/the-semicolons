@@ -1,7 +1,8 @@
 # the-semicolons
-Niko Springer..
-marcel..
-tom..
-Micha..
-Youssef..
-Hosam..
+- Niko Springer
+- marcel
+- tom
+- Micha
+- Youssef
+- Hosam
+- Kathrine Beuth
