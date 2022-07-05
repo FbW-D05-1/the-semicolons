@@ -1,12 +1,12 @@
 # the-semicolons
 
--Niko Springer
--marcel
--tom
--Micha
--Youssef
--Ahmad
--Hosam
+- Niko Springer
+- marcel
+- tom
+- Micha
+- Youssef
+- Ahmad
+- Hosam
 - Niko Springer
 - marcel
 - tom
