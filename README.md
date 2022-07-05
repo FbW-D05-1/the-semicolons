@@ -8,3 +8,4 @@
 - Kathrine Beuth
 - Alibaba
 - George
+- Edgar
