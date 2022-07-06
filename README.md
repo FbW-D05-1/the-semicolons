@@ -1,8 +1,4 @@
-## the-semicolons
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
+# the-semicolons
 
 - Etienne
 - Lea
