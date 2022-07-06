@@ -1,4 +1,4 @@
-## the-semicolons
+# the-semicolons
 
 - Etienne
 - Lea
