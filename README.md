@@ -1,10 +1,10 @@
-# the-semicolons
+## the-semicolons
 
 - Etienne
 - Lea
 - Niko Springer
-- marcel
-- tom
+- Marcel
+- Tom
 - Micha
 - Youssef
 - Ahmad
@@ -15,6 +15,13 @@
 - Edgar
 - Marvin
 
+- Ali ramazanian
+- Ahmad-J
+- Mirna
+- Evgeniia
+- Derya
+
+........
 ______________________
 ░░░░░░░░░░░░░░░░░░░░░▄▀░░▌
 ░░░░░░░░░░░░░░░░░░░▄▀▐░░░▌
