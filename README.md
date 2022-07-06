@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# the-semicolons
-
-=======
 ## the-semicolons
->>>>>>> b04082d53bce5cef5af1f3f9d1a255d539cca821
 
 - Etienne
 - Lea
