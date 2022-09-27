@@ -1,4 +1,4 @@
-## the-semicolons
+# the-semicolons
 
 - Etienne
 - Lea
@@ -11,16 +11,16 @@
 - Hosam
 - Kathrine Beuth
 - Alibaba
-- George1
+- George
 - Edgar
 - Marvin
 - Ali ramazanian
 - Ahmad-J
 - Mirna
 - Evgeniia
-
-
-........ 
+- Derya
+- Sidar 
+........
 ______________________
 ░░░░░░░░░░░░░░░░░░░░░▄▀░░▌
 ░░░░░░░░░░░░░░░░░░░▄▀▐░░░▌
@@ -37,4 +37,3 @@ ______________________
 ▒▒▒▒▒▒█▒▄▄▀▒▒▒▒▒▒▒▒▒▒▒░░▐▒▀▄▀▄░░░░▀
 ▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▄▒▒▒▒▄▀▒▒▒▌░░▀▄
 ▒▒▒▒▒▒▒▒▀▄▒▒▒▒▒▒▒▒▀▀▀▀▒▒▒▄▀"Meow!" <3
-
